@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-28 18:26:50,http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
+2025-12-29 06:24:19,http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
 
 📺央视频道,#genre#
 CCTV-1,http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
@@ -7,6 +7,7 @@ CCTV-7,http://yp.qqqtv.top/1/api.php?id=CCTV-7HD&auth=666858
 CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
 CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002
 CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
+CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 
@@ -31,12 +32,9 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 兵器科技,http://171.83.103.119:9999/rtp/239.69.1.79:10114
 
 🌊港·澳·台,#genre#
-翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
+翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
 明珠台,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=cadf460aacc566024c43c7c43091734c
-明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
-明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
-明珠台,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
 凤凰中文,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 凤凰中文,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -45,8 +43,8 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 凤凰资讯,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
@@ -54,12 +52,12 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
 无线新闻,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=f7b4583df4a36084ee912dbe42ae7432
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
+东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 Now剧集,http://rihou.cc:555/tv/[Hk]Now剧集
 Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
@@ -74,6 +72,8 @@ CHC动作电影,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000000
 CHC动作电影,http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC高清电影,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+淘剧场,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001
+淘娱乐,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.100:8001
 NewTV惊悚悬疑,http://183.220.107.138:4022/rtp/239.11.0.144:5140
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
@@ -81,6 +81,7 @@ NewTV惊悚悬疑,http://183.220.107.138:4022/rtp/239.11.0.144:5140
 IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
+龙祥电影,http://zb.hpc.tw/smtv.php?id=lungxiangtime_twn
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 
 📡卫视频道,#genre#
@@ -118,8 +119,8 @@ IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
 东方卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001028/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 东方卫视,http://yp.qqqtv.top/1/api.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86HD&auth=666858
+东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 东南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226307/index.m3u8
 东南卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001044/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 甘肃卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225754/index.m3u8
@@ -182,9 +183,8 @@ IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
 大湾区卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 ☘️北京频道,#genre#
-北京卡酷少儿,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
 北京卡酷少儿,http://ygbh.site/php/bfgd.php?id=106
-北京卡酷少儿,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
+北京卡酷少儿,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
 北京卡酷少儿,http://61.184.46.85:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卡酷少儿,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
@@ -195,20 +195,17 @@ IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
 
 ☘️上海频道,#genre#
 七彩戏剧,http://139.196.151.191:2051/rtp/239.45.3.61:5140
-上海外语,http://139.196.151.191/rtp/239.45.1.127:5140
 上海外语,http://139.196.151.191:2051/rtp/239.45.1.127:5140
+上海外语,http://139.196.151.191/rtp/239.45.1.127:5140
 东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
+东方财经,http://139.196.151.191:2051/rtp/239.45.1.119:5140
 东方财经,rtsp://115.153.245.70/PLTV/88888888/224/3221225609/iptv7995.smil
 东方财经,rtsp://115.153.254.81/PLTV/88888888/224/3221225609/iptv7995.smil
 东方财经,rtsp://115.153.240.228:554/PLTV/88888888/224/3221225609/iptv7995.smil
 东方财经,rtsp://115.153.212.72/PLTV/88888888/224/3221225609/iptv7995.smil
 东方财经,rtsp://115.153.233.154/PLTV/88888888/224/3221225609/iptv7995.smil
-全纪实,http://183.215.134.239:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
-全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 哈哈炫动,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001303/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
-欢笑剧场,http://139.196.151.191/rtp/239.45.3.196:5140
 法治天地,http://112.254.55.106:22222/rtp/239.253.254.96:8000
 第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
 纪实人文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
@@ -275,13 +272,11 @@ JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
 
 🏛经典剧场,#genre#
 笑傲江湖,https://lunbo.freetv.top/yy/1352833750
-鹿鼎记,http://43.138.0.72:35455/yy/1382736920
-鹿鼎记,http://43.138.0.72:35455/yy/28265277
-鹿鼎记,http://c1.rrcdnbf6.com/video/ludingji/HD国语/index.m3u8
-鹿鼎记,http://www.douzhicloud.site:35455/yy/28265277
 仙剑奇侠传,http://www.douzhicloud.site:35455/yy/1382749903
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5222486782687309806_hlsb.m3u8
 西游记,http://live.nctv.top/huya.php?id=26355861
+三国演义,http://live.nctv.top/huya.php?id=11602081
+三国演义,http://www.douzhicloud.site:35455/huya/11602081
 水浒传,https://lunbo.freetv.top/yy/1353215589
 闯关东,http://129.150.54.232:10001/yy/1354689861
