@@ -1,11 +1,10 @@
 🕘️更新时间,#genre#
-2026-03-07 18:34:48,https://iptv.catvod.com/live.php?id=CCTV5&line=13
+2026-03-08 06:36:33,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=6
 
 📺央视频道,#genre#
+CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=6
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=13
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=14
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=6
-CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7&line=11
 CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 CCTV-9,http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
 CCTV-10,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
@@ -44,6 +43,7 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
+靖天资讯,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGM2y3SlUf0Jn3RYpDOU33JeOmPBVmIXe_3uAXnxWrKZmpbsIlPnCRTypdx2pep5e17Nnv3EqnzwddqCKzt3YjlU-iNjduYPY9de1LsPSjk5sDdhD78xbZLFx4VNT-VWQb9J7_zUSfpv9M0DMxyTHqO3cwNfOKwZBYFFsGJUhPLagNtJjeg-kpX3G3-lAgW1SPp9HmwdS9aO5Reyw2oXm0ag.m3u8?u=1757123819
 靖天资讯,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iU-PTrevW4Nb5kml8ZMd3atzbtvCRGQ3MDg4rhDwXJUo27Wne7i2ic9WsH8-j4buWEQhUJx9QjfA2z6UKJyuHpLAOOdcN21nHCraYsxN_eYkwHk1rEyYvQUiDqLXEVzJAA4f-hmzVB_5Lwfo6SxCisWIBEG_u3wFU-dg0dSYIr7H1w22lPl_b55igxNT51gLExSH5ldcRagBv1xkvpNk0w2A.m3u8?u=1756878715
 靖天资讯,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5055
 靖天资讯,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv065
@@ -51,7 +51,6 @@ Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
 靖天资讯,http://nmk.ioapk.com:5050/li-4gtv-4gtv065/index.m3u8?proxy=true
 靖天资讯,http://220.135.64.124:5050/4gtv-4gtv065/index.m3u8?proxy=true
 靖天资讯,http://220.135.64.124:5050/li-4gtv-4gtv065/index.m3u8?proxy=true
-靖天资讯,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGM2y3SlUf0Jn3RYpDOU33JeOmPBVmIXe_3uAXnxWrKZmpbsIlPnCRTypdx2pep5e17Nnv3EqnzwddqCKzt3YjlU-iNjduYPY9de1LsPSjk5sDdhD78xbZLFx4VNT-VWQb9J7_zUSfpv9M0DMxyTHqO3cwNfOKwZBYFFsGJUhPLagNtJjeg-kpX3G3-lAgW1SPp9HmwdS9aO5Reyw2oXm0ag.m3u8?u=1757123819
 
 🎬电影频道,#genre#
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
@@ -60,8 +59,25 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 CHC动作电影,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC高清电影,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+淘剧场,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001
+淘娱乐,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.100:8001
 靖天映画,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGDXv1SfZ1MhhtLDvMdZtSidqO1YPWuu00ZaAz_b0Ihbb7Q51OkyNfs2D8NErQUB5-ZDHT6Zkkf4Hw28oxeuXPQzXaayE0zVcA9b4AcBPQgt0YsLk64wcv91Sa-Gk0nDTE_RP3qgYMpUNpTTTLiTGKOXSdye5XmlIjbipatd2QaTM1ylxLytNz7bMJPC2hDabAHqbtO9DZZ-4DuMvYfMNGbg.m3u8?u=1757123819
+靖天映画,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUGoAizwDX2ugIXbPbDhCigHfDjvhlcSwubLm2ffedfFXku6bvyJpxyrIEil4B5LpfVMB8A7gpCCrWNvUSRiXXXeWf1ajMfN0PWvetfPYUdZzzDCXtxjUEpQmUqB1RGqWo2mZ7LEjTph_HtLZJTFi16cFluiQqoa-_n1Cz54-LDR4kIN8-KraW11yGB1XUdSi2hqpxIyqWAX8djADiGB2xKg.m3u8?u=1756878715
+靖天映画,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5105
+靖天映画,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv055
+靖天映画,http://nmk.ioapk.com:5050/4gtv-4gtv055/index.m3u8?proxy=true
+靖天映画,http://nmk.ioapk.com:5050/li-4gtv-4gtv055/index.m3u8?proxy=true
+靖天映画,http://220.135.64.124:5050/4gtv-4gtv055/index.m3u8?proxy=true
+靖天映画,http://220.135.64.124:5050/li-4gtv-4gtv055/index.m3u8?proxy=true
 靖天戏剧,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGSGiDeEPqIEJVx3us26kmLFaDm0KCC0qIr1Xros8zGoEPNHaFzXQLAiFBlbr6qSvMN5Z7yzGqNwECOOaVoXxtgc_IdHKrPb4FGmjpSksjE4YiIB4zSSExvnI840FbChvM6nuX5fTEJvHNzPV2pAMh-QJEfasmpz5B3lviCX9MWMdXaAo8lT1pjXYD8bOrAEL1aJIrb60F_VojtF9C3btvEQ.m3u8?u=1757123819
+靖天戏剧,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUGoAizwDX2ugIXbPbDhCigJRk9nNZfdQ5KmzwPu3xjSrKySuRWBJbHZ5YtffC5wtAB3-LU-P5NWPcngnr2OYKkY23jMbpUosf4_-eMjznxUorn3o7F-Y3zUJLvl-9t-8Z7LYA9KWdbozjo399NVGOVLU5dQ5vn0pLYnv4AvRiG0jDPjUIiObB8NeiKWaMxMCKXQY10ybVhtO3sJhG3tneLg.m3u8?u=1756878715
+靖天戏剧,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5097
+靖天戏剧,http://pullpackage.alivecdn.com/live/6bd4d1388beb15da5c163b3e30c13c48.flv
+靖天戏剧,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv058
+靖天戏剧,http://nmk.ioapk.com:5050/4gtv-4gtv058/index.m3u8?proxy=true
+靖天戏剧,http://nmk.ioapk.com:5050/li-4gtv-4gtv058/index.m3u8?proxy=true
+靖天戏剧,http://220.135.64.124:5050/4gtv-4gtv058/index.m3u8?proxy=true
+靖天戏剧,http://220.135.64.124:5050/li-4gtv-4gtv058/index.m3u8?proxy=true
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 📡卫视频道,#genre#
@@ -163,9 +179,8 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 大湾区卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 ☘️北京频道,#genre#
-北京卡酷少儿,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
-北京卡酷少儿,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 北京卡酷少儿,http://61.184.46.85:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卡酷少儿,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
 北京卡酷少儿,http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 北京生活,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
@@ -174,6 +189,7 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 ☘️上海频道,#genre#
+上海外语,http://139.196.151.191:2051/rtp/239.45.1.127:5140
 东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
 东方财经,rtsp://115.153.245.70/PLTV/88888888/224/3221225609/iptv7995.smil
 东方财经,rtsp://115.153.254.81/PLTV/88888888/224/3221225609/iptv7995.smil
@@ -228,8 +244,8 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 爱体育,rtsp://115.153.245.70/PLTV/88888888/224/3221227012/86440946.smil
 爱体育,rtsp://115.153.254.81/PLTV/88888888/224/3221227044/86502115.smil
 超级体育,http://111.43.126.240:9003/hls/86/index.m3u8
-辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8
+辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
