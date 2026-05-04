@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-04 06:53:22,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-05-04 20:01:58,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -12,6 +12,7 @@ CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695715623379403436.m3u8?e
 第一剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 风云剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 怀旧剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+怀旧剧场,https://gd202.tv1288.xyz/tsfile/live/1048_1.m3u8
 女性时尚,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 女性时尚,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001316/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 高尔夫网球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -33,7 +34,6 @@ CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695715623379403436.m3u8?e
 凤凰资讯,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 靖天资讯,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv065
 靖天资讯,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv065
@@ -142,6 +142,8 @@ NewTV动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7
 
 ☘️上海频道,#genre#
 哈哈炫动,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001303/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+欢笑剧场,http://k.061899.xyz/k.php?id=hxjc
+欢笑剧场,https://shyd.695847.xyz/cms001/ch00000090990000001193/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 纪实人文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
 纪实人文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226313/index.m3u8
 纪实人文,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -179,17 +181,14 @@ NewTV动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7
 风云音乐,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 🏛经典剧场,#genre#
-笑傲江湖,http://cdn.jdshipin.com:8880/huya.php?id=23865142
 天龙八部,https://live.metshop.top/huya/23903123
 鹿鼎记,https://live.ottiptv.cc/yy/28265277
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
 西游记,http://cdn.jdshipin.com:8880/huya.php?id=30080242
 西游记,https://lbds.us.ci/26355861
-三国演义,http://cdn.jdshipin.com:8880/huya.php?id=11602081
-三国演义,https://live.metshop.top/huya/11602081
+三国演义,https://live.ottiptv.cc/huya/11602081
 新白娘子传奇,https://live.ottiptv.cc/yy/1354490667
-封神榜,http://live.ottiptv.cc/huya/29465849
-封神榜,http://cdn.jdshipin.com:8880/huya.php?id=29465849
 封神榜,https://live.ottiptv.cc/huya/29465849
-射雕英雄传,https://live.metshop.top/huya/23824164
 射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164
+射雕英雄传,https://live.metshop.top/huya/23824164
+射雕英雄传,https://live.ottiptv.cc/huya/23824164
