@@ -1,15 +1,16 @@
 🕘️更新时间,#genre#
-2026-07-16 07:17:37,http://www.negative.top:50000/rtp/233.50.200.109:5140
+2026-07-16 19:55:08,http://www.negative.top:50000/rtp/233.50.200.109:5140
 
 📺央视频道,#genre#
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696107587393815378/playlist.m3u8?keeptime=00093a80&wsSecret=bbbd054778ab532edfa97bf7c5395746&wsTime=6a544fee&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&t_id=037-2026071310394131FD5A22CCB9DDAFA77E-5XIF43
+CCTV-15,http://204.12.221.218:8181/3m1080p/cctv15.m3u8
 CETV-3,http://198.204.228.26/live/cetv3.m3u8
-CETV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv3
-CETV-3,http://204.12.221.218:8181/3m1080p/cetv3.m3u8
 CETV-3,http://107.150.60.122/live/cetv3.m3u8
+CETV-3,http://204.12.221.218:8181/3m1080p/cetv3.m3u8
+CETV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv3
 CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 
 💰央视付费频道,#genre#
@@ -37,11 +38,11 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 凤凰中文,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 凤凰中文,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw
+凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
 凤凰资讯,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 凤凰资讯,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002187/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 凤凰资讯,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx
-凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 无线新闻,http://122.152.202.33/s/81a8a44f/index.m3u8?id=21
 靖天资讯,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv065
@@ -61,8 +62,9 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 CHC高清电影,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 淘剧场,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001
 淘娱乐,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.100:8001
-NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=cefe64289cde2680e596ee3c1c6a4bf2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=082a2e30e260e629bde8f58d4861bee0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=cefe64289cde2680e596ee3c1c6a4bf2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+NewTV动作电影,http://43.138.0.72:35455/yy/1382736823
 NewTV动作电影,http://183.220.107.138:4022/rtp/239.11.0.142:5140
 靖天映画,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv055
 靖天映画,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5105
@@ -109,6 +111,7 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 安徽卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001298/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
 重庆卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001297/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+重庆卫视,http://192.151.150.154/live/cqwshd.m3u8
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
 东方卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001028/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -176,8 +179,8 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 大湾区卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 ☘️北京频道,#genre#
-北京卡酷少儿,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 北京卡酷少儿,http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
+北京卡酷少儿,http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 北京生活,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
 北京科教,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=btv3&P2PChannelID=pd://cctv_p2p_hdbtv3
@@ -185,18 +188,23 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 ☘️上海频道,#genre#
+七彩戏剧,http://139.196.151.191:2051/rtp/239.45.3.61:5140
 东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
 东方财经,rtsp://115.153.245.70/PLTV/88888888/224/3221225609/iptv7995.smil
 东方财经,rtsp://115.153.254.81/PLTV/88888888/224/3221225609/iptv7995.smil
 东方财经,rtsp://115.153.240.228:554/PLTV/88888888/224/3221225609/iptv7995.smil
 东方财经,rtsp://115.153.212.72/PLTV/88888888/224/3221225609/iptv7995.smil
 东方财经,rtsp://115.153.233.154/PLTV/88888888/224/3221225609/iptv7995.smil
+全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
 全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 哈哈炫动,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001303/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+欢笑剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil
+欢笑剧场,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000411?AuthInfo=xxx&userid=gf001&userid=gf001
+欢笑剧场,http://183.220.107.138:4022/rtp/239.10.0.129:5140
 法治天地,https://live.264788.xyz/channel/fazhitiandi?streamid=0039922a529780d5b2709e5ccd146683&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-法治天地,https://live.264788.xyz/channel/fazhitiandi?streamid=48bdb4889e76ecd8fec232fa135a2403&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 法治天地,https://live.264788.xyz/channel/fazhitiandi?streamid=f97ae69ae237e5fed46fc31c7f75ac14&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 法治天地,https://live.264788.xyz/channel/fazhitiandi?streamid=fe165cb56510151228c7f1f898f9cc2d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+法治天地,https://live.264788.xyz/channel/fazhitiandi?streamid=48bdb4889e76ecd8fec232fa135a2403&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 法治天地,http://dassby.qqff.top:99/live/法治天地/index.m3u8
 法治天地,rtsp://115.153.245.70/PLTV/88888888/224/3221225607/iptv7994.smil
 法治天地,rtsp://115.153.254.81/PLTV/88888888/224/3221225607/iptv7994.smil
@@ -242,11 +250,12 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 爱体育,rtsp://115.153.245.70/PLTV/88888888/224/3221227012/86440946.smil
 爱体育,rtsp://115.153.254.81/PLTV/88888888/224/3221227044/86502115.smil
 辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8
+辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 成都体育,http://222.212.84.190:54123/rtp/239.93.0.224:1281
-天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
+天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 睛彩篮球,http://drive.mxmy.net:8888/udp/239.3.1.126:8001
 睛彩广场舞,http://183.220.20.17:4321/rtp/239.10.0.131:5140
@@ -261,6 +270,12 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
 🏛经典剧场,#genre#
+天龙八部,https://txmov2.a.kwimgs.com/upic/2021/02/26/11/BMjAyMTAyMjYxMTAwNTBfNDAzMDAxOTlfNDUwNDcyNzM5MTRfMF8z_b_B75ed716649c36f65fc2354f75dba47a5.mp4
+天龙八部,https://godmusic.bs2dl.yy.com/dHZlZmVhMWUxMDYzYjQ0ZmJkYjU4MmE4NDlkYjRmNmMxMy0xMTY2Mzk0Njky?Cf=cf.mp4
+鹿鼎记,http://43.138.0.72:35455/yy/1382736920
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5222486782687309806_hlsb.m3u8
+西游记,http://222.186.39.21:35466/huya/20985836
+水浒传,http://222.186.39.21:35466/huya/26355860
+水浒传,http://8.155.43.98:35455/huya/26355860
 上海滩,https://txmov2.a.kwimgs.com/upic/2021/02/22/22/BMjAyMTAyMjIyMjU2NDFfMTI0MzE0NjMyOF80NDg1MDgzMTY5NF8yXzM=_b_B35aa4e9376173041991a9a379ff4ac56.mp4
