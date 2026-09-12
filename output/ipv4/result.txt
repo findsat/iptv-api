@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-12 21:28:59,http://115.171.216.32:4000/rtp/225.1.8.20:8004
+2026-09-13 07:51:45,http://115.171.216.32:4000/rtp/225.1.8.20:8004
 
 📺央视频道,#genre#
 CCTV-5,http://115.171.216.32:4000/rtp/225.1.8.20:8004
@@ -7,11 +7,11 @@ CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CETV-1,https://h5cul1yar48um3t.wcetv.com/hls/wcetv318.m3u8
 CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 CETV-1,http://106.3.210.21/mobilelive-pull.ysp.cctv.cn/ysp/2022823801.m3u8
+CETV-3,http://38.75.136.137:98/gslb/dsdqpub/cetv3.m3u8?auth=testpub
+CETV-3,http://107.150.60.122/live/cetv3.m3u8
 CETV-3,http://198.204.228.26/live/cetv3.m3u8
 CETV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv3
 CETV-3,http://204.12.221.218:8181/3m1080p/cetv3.m3u8
-CETV-3,http://38.75.136.137:98/gslb/dsdqpub/cetv3.m3u8?auth=testpub
-CETV-3,http://107.150.60.122/live/cetv3.m3u8
 CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 
 💰央视付费频道,#genre#
@@ -52,14 +52,11 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 CHC高清电影,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 淘剧场,http://tnvcn.com:8012/rtp/239.3.1.95:8001
 淘娱乐,http://tnvcn.com:8012/rtp/239.3.1.100:8001
-NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=082a2e30e260e629bde8f58d4861bee0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=cefe64289cde2680e596ee3c1c6a4bf2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-NewTV动作电影,http://45.192.97.170:8880/play/2200.m3u8
+NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=082a2e30e260e629bde8f58d4861bee0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 NewTV动作电影,http://dassby.qqff.top:99/live/CHC动作电影/index.m3u8
 NewTV动作电影,http://183.220.107.138:4022/rtp/239.11.0.142:5140
-纬来电影,http://31.43.191.125:8080/vip7201770826573/415c945b71e8/34852
 靖天映画,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34838
-靖天映画,http://t.061899.xyz/tl/js/js.php?id=jtyh
 靖天映画,http://45.192.97.170:8880/play/1335.m3u8
 靖天映画,http://45.192.97.170:8880/play/1267.m3u8
 IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
@@ -151,9 +148,6 @@ IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
 ☘️广东频道,#genre#
 广东珠江,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdzj
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
-广东珠江,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdzja
-广东体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdty
-广东新闻,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdxw
 广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
 广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
 广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226304/index.m3u8
@@ -171,24 +165,29 @@ IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
 ☘️上海频道,#genre#
 七彩戏剧,http://t.061899.xyz/tl/dq.php?id=qcxj
 上海外语,http://t.061899.xyz/tl/tl.php?id=shics
+东方财经,http://139.196.151.191:2051/rtp/239.45.1.119:5140
 东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
 东方财经,rtsp://115.153.245.70/PLTV/88888888/224/3221225609/iptv7995.smil
 东方财经,rtsp://115.153.254.81/PLTV/88888888/224/3221225609/iptv7995.smil
 东方财经,rtsp://115.153.240.228:554/PLTV/88888888/224/3221225609/iptv7995.smil
 东方财经,rtsp://115.153.212.72/PLTV/88888888/224/3221225609/iptv7995.smil
 东方财经,rtsp://115.153.233.154/PLTV/88888888/224/3221225609/iptv7995.smil
-全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
-全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 哈哈炫动,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001303/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 哈哈炫动,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xdkthd
 欢笑剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hxjchd
+欢笑剧场,http://t.061899.xyz/tl/dq.php?id=hxjc
+欢笑剧场,http://t.061899.xyz/tl/tl.php?id=hxjc
+欢笑剧场,http://38.75.136.137:98/gslb/dsdqpub/hxjchd.m3u8?auth=testpub
+欢笑剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil
+欢笑剧场,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000411?AuthInfo=xxx&userid=gf001&userid=gf001
+欢笑剧场,http://183.220.107.138:4022/rtp/239.10.0.129:5140
 法治天地,https://live.264788.xyz/channel/fazhitiandi?streamid=fe165cb56510151228c7f1f898f9cc2d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 纪实人文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
 纪实人文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226313/index.m3u8
 纪实人文,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 都市剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002108/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-都市剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dsjchd
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
+都市剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dsjchd
 金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
 苏州4k,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 
@@ -211,7 +210,6 @@ IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-五星体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=wxtyhd
 劲爆体育,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001326/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 爱体育,rtsp://180.95.143.19/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil
 爱体育,rtsp://116.176.26.18/PLTV/88888910/224/3221225508/10000100000000060000000000107288_0.smil
@@ -230,9 +228,13 @@ IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
 睛彩篮球,http://drive.mxmy.net:8888/udp/239.3.1.126:8001
 睛彩广场舞,http://tnvcn.com:8012/rtp/239.3.1.128:8001
 风云足球,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 天元围棋,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gztywq
+天元围棋,http://204.12.221.218:8181/3m1080p/gztywq.m3u8
 快乐垂钓,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+JJ斗地主,http://8.155.43.98:35455/huya/152698
+JJ斗地主,http://1.14.124.206:35455/huya/30814433
+JJ斗地主,http://1.14.124.206:35455/huya/152698
+JJ斗地主,http://8.155.43.98:35455/huya/30814433
 
 🎵音乐频道,#genre#
 风云音乐,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -243,7 +245,7 @@ IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
 🏛经典剧场,#genre#
 鹿鼎记,http://luobo.bkpcp.top/yy/28265277
 西游记,http://173.208.234.146/live/vlxyj.m3u8
+水浒传,http://173.208.234.146/live/vlshz.m3u8
 水浒传,http://222.186.39.21:35466/huya/26355860
 水浒传,http://8.155.43.98:35455/huya/26355860
-水浒传,http://173.208.234.146/live/vlshz.m3u8
 闯关东,http://173.208.234.146/live/lbchuangguandong.m3u8
