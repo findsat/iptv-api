@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-12 08:03:38,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-09-12 21:28:59,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -176,9 +176,10 @@ CHC高清电影,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000000
 笑傲江湖,https://live.metshop.top/huya/23865142
 天龙八部,https://live.metshop.top/huya/23903123
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
-三国演义,https://live.metshop.top/huya/11602081
 三国演义,https://live.ottiptv.cc/huya/11602081
+三国演义,https://live.metshop.top/huya/11602081
 水浒传,http://live.ottiptv.cc/huya/26355860
+水浒传,https://live.ottiptv.cc/yy/1353873252
 新白娘子传奇,http://luobo.bkpcp.top/yy/1354490667
 封神榜,https://live.metshop.top/huya/29465849
 上海滩,http://luobo.bkpcp.top/yy/1382745184
