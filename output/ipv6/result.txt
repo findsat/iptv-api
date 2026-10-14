@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-14 01:34:30,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-10-14 09:07:57,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -180,5 +180,5 @@ CHC高清电影,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch0000009099000000
 新白娘子传奇,http://luobo.bkpcp.top/yy/1354490667
 封神榜,https://live.metshop.top/huya/29465849
 上海滩,http://luobo.bkpcp.top/yy/1382745184
-射雕英雄传,https://live.ottiptv.cc/huya/23824164
 射雕英雄传,https://live.metshop.top/huya/23824164
+射雕英雄传,https://live.ottiptv.cc/huya/23824164
